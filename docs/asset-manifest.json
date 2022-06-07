@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c5403e2.css",
+    "main.js": "/static/js/main.069f3d6c.js",
+    "static/media/CascadiaMono-Bold.otf": "/static/media/CascadiaMono-Bold.c8c9c39b2be26ae480f2.otf",
+    "index.html": "/index.html",
+    "main.7c5403e2.css.map": "/static/css/main.7c5403e2.css.map",
+    "main.069f3d6c.js.map": "/static/js/main.069f3d6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5403e2.css",
+    "static/js/main.069f3d6c.js"
+  ]
+}
